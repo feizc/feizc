@@ -11,12 +11,15 @@
 </p>
 
 
+
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=feizc&show_icons=true&line_height=21&theme=react" alt="feizc's Github Stats" />
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=feizc&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=feizc)
 
 
 
