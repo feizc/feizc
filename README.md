@@ -1,9 +1,6 @@
 <h1> Howdy! I am Zhengcong Fei (费政聪)</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 </h1>
 
-### 📬 Find me at 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/feizc/)](https://github.com/feizc/) 
-
 
 <p align="center">
   <samp>
