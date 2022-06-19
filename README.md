@@ -4,8 +4,9 @@
 ### 📬 Find me at 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/feizc/)](https://github.com/feizc/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feizhengcong@gmail.com)](mailto:feizhengcong@gmail.com)
-[![Zhihu Badge](https://img.shields.io/badge/-@feizhengcong-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/mai-zi-31-63/)](https://zhihu.com/people/mai-zi-31-63/)
-
+[![Zhihu Badge](https://img.shields.io/badge/-@feizhengcong-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/mai-zi-31-63/)](https://zhihu.com/people/mai-zi-31-63/) 
+[![Scholar Badge](https://img.shields.io/badge/-Scholar-2EC866?style=flat-square&logo=Scholar&logoColor=white&link=https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN)
+![Profile Views](https://komarev.com/ghpvc/?username=feizc)
 
 <p align="center">
   <samp>
@@ -25,7 +26,6 @@
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=feizc&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=feizc)
 
 
 
