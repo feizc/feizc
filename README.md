@@ -8,15 +8,20 @@
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-2EC866?style=flat-square&logo=Scholar&logoColor=white&link=https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN)
 ![Profile Views](https://komarev.com/ghpvc/?username=feizc)
 
-<p align="center">
-  <samp>
-    <a href="https://feizc.github.io/resume/">homepage</a> ∙
-    <a href="https://feizc.github.io/resume/CV.pdf">cv</a> ∙ 
-    <a href="https://www.zhihu.com/people/mai-zi-31-63">zhuhu</a> ∙ 
-    <a href="https://scholar.google.com/citations?user=_43YnBcAAAAJ&hl=zh-CN">scholar</a>
-  </samp>
-</p>
 
+### 🍀 A little about me...  
+
+I'm currently working at Visual Intelligence Center in [Meituan](https://about.meituan.com/en). I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+
+## ⚡️ A Few Quick Facts
+
+- 🔭  I major in Computer Application Technology in [Institute of Computing Technology, Chinese Academy of Sciences]([https://en.uestc.edu.cn/](http://www.ict.cas.cn/jssgk/jssjj/)). 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Visual & Language 
+  - 🖼 Ensemble Learning
+  - 🤖 Bioinformatics
+- 💬 Ask me about Python, CV & NLP, Latex 
+- 📙 Check out my [Resume](https://feizc.github.io/resume/CV.pdf)
 
 
 ### 🚀 Quick Stats
@@ -25,6 +30,7 @@
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=feizc&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
+
 
 
 
