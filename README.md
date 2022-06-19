@@ -14,7 +14,7 @@ I'm currently working at Visual Intelligence Center in [Meituan](https://about.m
 
 ### ⚡️ A Few Facts
 
-- 🔭  I major in Computer Application Technology in [ICT, CAS](http://www.ict.cas.cn/jssgk/jssjj/) 
+- 🔭  I major in Computer Application Technology in [ICT, CAS](http://www.ict.cas.cn/jssgk/jssjj/) @[pFind team](http://pfind.org/)
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Visual & Language 
   - 🖼 Reinforcement Learning
