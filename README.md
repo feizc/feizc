@@ -15,7 +15,7 @@ I'm currently working at [Visual Intelligence Center](https://ai.meituan.com/) i
 - 🔭  I major in Computer Application Technology in [ICT, CAS](http://www.ict.cas.cn/jssgk/jssjj/)  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Visual & Language 
-  - 🖼 Reinforcement Learning
+  - 🖼 Music & Art Creation 
   - 🤖 Bioinformatics
 - 🤔 I’m looking for help with Research & Devops
 - 💬 Ask me about Python, CV & NLP, Latex 
