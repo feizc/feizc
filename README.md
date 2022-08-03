@@ -24,7 +24,7 @@ I'm currently working at [Meituan Vision AI Department](https://about.meituan.co
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=feizc&show_icons=true&line_height=21&theme=react" alt="feizc's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=feizc&show_icons=true&line_height=21&theme=react" alt="feizc's Github Stats" />
 </p>
 
 
