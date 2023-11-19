@@ -1,4 +1,4 @@
-<h1> Howdy! I am Zhengcong Fei (费政聪)</a>  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+<h1> Howdy! I am Zhengcong Fei (费政聪)</a></h1>
 </h1>
 
 ### 📬 Find me at 
