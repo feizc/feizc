@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=feizc) 
 
 ### 🍀 A little about me...  
-I'm currently working at [Meituan Vision AI Department](https://about.meituan.com/en). I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm currently working at Meituan Vision AI Department. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ### ⚡️ A Few Facts
 - 🔭  I major in Computer Application Technology in [ICT, CAS](http://www.ict.cas.cn/jssgk/jssjj/)  
